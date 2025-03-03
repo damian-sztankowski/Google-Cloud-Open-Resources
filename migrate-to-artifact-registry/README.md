@@ -65,13 +65,6 @@ python main.py -p PROJECT_ID
     - `gcloud container images list`
     - `gcloud storage buckets list`
 5. **Displays results in a readable table format.**
-## **⚠️ GCR Migration Recommendations**
-
-|**Status**|**What It Means**|
-|---|---|
-|🚨 **Migration Required**|GCR is in use, but Artifact Registry is **not enabled**|
-|⚠️ **Migration Recommended**|GCR is in use, but Artifact Registry is **enabled**|
-|✅ **Fully migrated to Artifact Registry**|No GCR usage detected, only using Artifact Registry|
 ## **🔧 Troubleshooting**
 
 If the script is not detecting GCR repositories correctly:
