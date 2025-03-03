@@ -61,6 +61,8 @@ python main.py -p PROJECT_ID
     - `gcloud container images list`
     - `gcloud storage buckets list`
 5. **Displays results in a readable table format.**
+![output.png](https://github.com/damian-sztankowski/Google-Cloud-Open-Resources/blob/main/migrate-to-artifact-registry/output.png?raw=true)
+
 ## **🔧 Troubleshooting**
 
 If the script is not detecting GCR repositories correctly:
