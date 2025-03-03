@@ -55,8 +55,8 @@ python main.py -p PROJECT_ID
 
 ## **📊 Example Output**
 
-![[Pasted image 20250303075947.png]]
-## **💡 How It Works**
+![image] (https://github.com/damian-sztankowski/Google-Cloud-Open-Resources/blob/main/output.png?raw=true)
+# **💡 How It Works**
 
 1. **Lists all projects** in the provided Org, Folder, or for a single project.
 2. **Checks if the GCR API (`containerregistry.googleapis.com`) is enabled.**
