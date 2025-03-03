@@ -52,10 +52,6 @@ python main.py -p PROJECT_ID
 ```
 
 ✔️ **Scans only the projects within a specific folder**
-
-## **📊 Example Output**
-
-![image] (https://github.com/damian-sztankowski/Google-Cloud-Open-Resources/blob/main/output.png?raw=true)
 # **💡 How It Works**
 
 1. **Lists all projects** in the provided Org, Folder, or for a single project.
